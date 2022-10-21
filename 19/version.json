@@ -1,0 +1,11 @@
+{
+    "firmware": [
+        {
+            "software": "v0.0.1",
+            "hardware": [
+                "v0.1"
+            ],
+            "binFileName" : "swId-19_sw-v0.0.1_hw-v0.1.bin"
+        }
+    ]
+}
