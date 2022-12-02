@@ -1,60 +1,88 @@
 {
     "firmware": [
         {
+            "Snugr": {
+                "typeSwId": 19
+            },
+            "binFileName": "pcb-v100_sw-v0.0.4_hw-v0.1.bin",
+            "hardware": [
+                "v0.1"
+            ],
             "name": "Snugr Valve",
-            "status": "Release candidate",
+            "notes": [
+                "Still in development !"
+            ],
+            "radio": [
+                {
+                    "description": "Battery Powered Actuator (BI-DIR)",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "software": "v0.0.4",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 19
+            },
+            "binFileName": "pcb-v100_sw-v0.0.3_hw-v0.1.bin",
+            "hardware": [
+                "v0.1"
+            ],
+            "name": "Snugr Valve",
             "notes": [
                 "Still in developpement"
             ],
+            "radio": [
+                {
+                    "description": "Battery Powered Actuator (BI-DIR)",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
             "software": "v0.0.3",
-            "radio": [{
-                "protocol": "EnOcean",
-                "profile": "A5-20-01",
-                "description": "Battery Powered Actuator (BI-DIR)"
-            }],
+            "status": "Release candidate"
+        },
+        {
             "Snugr": {
                 "typeSwId": 19
             },
+            "binFileName": "pcb-v100_sw-v0.0.2_hw-v0.1.bin",
             "hardware": [
                 "v0.1"
             ],
-            "binFileName" : "pcb-v100_sw-v0.0.3_hw-v0.1.bin"
-        },
-        {
             "name": "Snugr Valve",
-            "status": "Stable",
             "notes": [],
+            "radio": [
+                {
+                    "description": "Battery Powered Actuator (BI-DIR)",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
             "software": "v0.0.2",
-            "radio": [{
-                "protocol": "EnOcean",
-                "profile": "A5-20-01",
-                "description": "Battery Powered Actuator (BI-DIR)"
-            }],
-            "Snugr": {
-                "typeSwId": 19
-            },
-            "hardware": [
-                "v0.1"
-            ],
-            "binFileName" : "pcb-v100_sw-v0.0.2_hw-v0.1.bin"
+            "status": "Stable"
         },
         {
-            "name": "Snugr Valve",
-            "status": "Stable",
-            "notes": [],
-            "software": "v0.0.1",
-            "radio": [{                
-                "protocol": "EnOcean",
-                "profile": "A5-20-01",
-                "description": "Battery Powered Actuator (BI-DIR)"
-            }],
             "Snugr": {
                 "typeSwId": 19
             },
+            "binFileName": "pcb-v100_sw-v0.0.1_hw-v0.1.bin",
             "hardware": [
                 "v0.1"
             ],
-            "binFileName" : "pcb-v100_sw-v0.0.1_hw-v0.1.bin"
+            "name": "Snugr Valve",
+            "notes": [],
+            "radio": [
+                {
+                    "description": "Battery Powered Actuator (BI-DIR)",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "software": "v0.0.1",
+            "status": "Stable"
         }
     ]
 }
