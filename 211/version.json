@@ -4,9 +4,9 @@
             "Snugr": {
                 "typeSwId": 604
             },
-            "binFileName": "pcb-v211_sw-v0.0.1_hw-v0.1.bin",
+            "binFileName": "pcb-v211_sw-v0.0.1_hw-v2.0.bin",
             "hardware": [
-                "v0.1"
+                "v2.0"
             ],
             "name": "Double relay Controler with temperature sensor",
             "notes": [
