@@ -1,0 +1,15 @@
+{
+    "firmware": [
+        {
+            "binFileName": "pcb-v201_sw-v0.0.1_hw-v0.1.bin",
+            "hardware": [
+                "v0.1"
+            ],
+            "notes": [
+                "Still in development !"
+            ],
+            "software": "v0.0.1",
+            "status": "Release candidate"
+        }
+    ]
+}
