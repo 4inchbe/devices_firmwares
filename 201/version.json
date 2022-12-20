@@ -1,26 +1,4 @@
 {
     "firmware": [
-        {
-            "Snugr": {
-                "typeSwId": 603
-            },
-            "binFileName": "pcb-v201_sw-v0.0.1_hw-v0.1.bin",
-            "hardware": [
-                "v0.1"
-            ],
-            "name": "Double relay Controler with temperature sensor",
-            "notes": [
-                "Still in development !"
-            ],
-            "radio": [
-                {
-                    "description": "Relay controler",
-                    "profile": "D2-01-A2",
-                    "protocol": "EnOcean"
-                }
-            ],
-            "software": "v0.0.1",
-            "status": "Release candidate"
-        }
     ]
 }
