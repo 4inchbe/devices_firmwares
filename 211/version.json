@@ -4,18 +4,42 @@
             "Snugr": {
                 "typeSwId": 604
             },
-            "binFileName": "pcb-v211_sw-v0.0.1_hw-v2.0.bin",
+            "binFileName": "aerotherm-v211_sw-v0.0.1_hw-v2.0.bin",
             "hardware": [
                 "v2.0"
             ],
-            "name": "Double relay Controler with temperature sensor",
+            "name": "Double relay Controler, with temperature sensor",
             "notes": [
                 "Still in development !"
             ],
+            "purpose": "aerotherm",
             "radio": [
                 {
                     "description": "Relay controler",
                     "profile": "D2-01-E3",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "software": "v0.0.1",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 81
+            },
+            "binFileName": "boiler-supplied-v211_sw-v0.0.1_hw-v2.0.bin",
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Boiler & circulator controler supplied, with temperature sensor",
+            "notes": [
+                "Still in development !"
+            ],
+            "purpose": "boiler-supplied",
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
                     "protocol": "EnOcean"
                 }
             ],
