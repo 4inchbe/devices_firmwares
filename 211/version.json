@@ -2,29 +2,6 @@
     "firmware": [
         {
             "Snugr": {
-                "typeSwId": 604
-            },
-            "binFileName": "aerotherm-v211_sw-v0.0.1_hw-v2.0.bin",
-            "hardware": [
-                "v2.0"
-            ],
-            "name": "Double relay Controler, with temperature sensor",
-            "notes": [
-                "Still in development !"
-            ],
-            "purpose": "aerotherm",
-            "radio": [
-                {
-                    "description": "Relay controler",
-                    "profile": "D2-01-E3",
-                    "protocol": "EnOcean"
-                }
-            ],
-            "software": "v0.0.1",
-            "status": "Release candidate"
-        },
-        {
-            "Snugr": {
                 "typeSwId": 81
             },
             "binFileName": "boiler-supplied-v211_sw-v0.0.1_hw-v2.0.bin",
@@ -36,6 +13,7 @@
                 "Still in development !"
             ],
             "purpose": "boiler-supplied",
+            "purpose_id": 62065,
             "radio": [
                 {
                     "description": "Boiler controler",
@@ -43,6 +21,32 @@
                     "protocol": "EnOcean"
                 }
             ],
+            "release_datetime": 1671623919410,
+            "software": "v0.0.1",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 604
+            },
+            "binFileName": "aerotherm-v211_sw-v0.0.1_hw-v2.0.bin",
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Double relay Controler, with temperature sensor",
+            "notes": [
+                "Still in development !"
+            ],
+            "purpose": "aerotherm",
+            "purpose_id": 62371,
+            "radio": [
+                {
+                    "description": "Relay controler",
+                    "profile": "D2-01-E3",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1671623915496,
             "software": "v0.0.1",
             "status": "Release candidate"
         }

@@ -1,27 +1,4 @@
 {
     "firmware": [
-        {
-            "Snugr": {
-                "typeSwId": 19
-            },
-            "binFileName": "valve-v100_sw-v0.0.4_hw-v0.1.bin",
-            "hardware": [
-                "v0.1"
-            ],
-            "name": "Snugr Valve",
-            "notes": [
-                "Still in development !"
-            ],
-            "purpose": "valve",
-            "radio": [
-                {
-                    "description": "Battery Powered Actuator (BI-DIR)",
-                    "profile": "A5-20-01",
-                    "protocol": "EnOcean"
-                }
-            ],
-            "software": "v0.0.4",
-            "status": "Release candidate"
-        }
     ]
 }
