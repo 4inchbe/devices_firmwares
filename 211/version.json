@@ -30,12 +30,14 @@
                 "typeSwId": 604
             },
             "binFileName": "aerotherm-v211_sw-v0.0.1_hw-v0.1.bin",
+            "binFileSize": 1030672,
             "hardware": [
                 "v0.1"
             ],
             "name": "Double relay Controler, with temperature sensor",
             "notes": [
-                "Still in development !"
+                "Still in development !",
+                "With WiFi update"
             ],
             "purpose": "aerotherm",
             "purpose_id": 62371,
@@ -46,7 +48,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1671716788435,
+            "release_datetime": 1672666914084,
             "software": "v0.0.1",
             "status": "Release candidate"
         }
