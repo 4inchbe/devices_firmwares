@@ -5,7 +5,7 @@
                 "typeSwId": 81
             },
             "binFileName": "boiler-supplied-v201_sw-v1.0.0_hw-v2.0.bin",
-            "binFileSize": 518208,
+            "binFileSize": 519280,
             "hardware": [
                 "v2.0"
             ],
@@ -22,7 +22,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1672997234363,
+            "release_datetime": 1673011967390,
             "software": "v1.0.0",
             "status": "Stable"
         }
