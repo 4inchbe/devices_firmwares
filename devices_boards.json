@@ -1,0 +1,35 @@
+{
+  // VALVE
+  100: {
+    text: "BOARD_ID_VALVE"
+  },
+
+  // 1RELAY
+  200: {
+    text: "BOARD_ID_1RELAY_230VAC"
+  },
+  201: {
+    text: "BOARD_ID_1RELAY_230VAC_TEMP"
+  },
+
+  // 2RELAY
+  210: {
+    text: "BOARD_ID_2RELAY_230VAC"
+  },
+  211: {
+    text: "BOARD_ID_2RELAY_230VAC_TEMP"
+  },
+
+  // relay battery
+  300: {
+    text: "BOARD_ID_1RELAY_BATTERY"
+  },
+  301: {
+    text: "BOARD_ID_1RELAY_BATTERY_TEMP"
+  },
+
+  // OPENTHERM
+  400: {
+    text: "BOARD_ID_OPENTHERM"
+  },
+};
