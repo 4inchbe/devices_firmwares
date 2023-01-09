@@ -22,7 +22,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1673020885467,
+            "release_datetime": 1673255050374,
             "software": "v1.0.0",
             "status": "Stable"
         },
@@ -51,33 +51,6 @@
             "release_datetime": 1673012712059,
             "software": "v1.0.0",
             "status": "Stable"
-        },
-        {
-            "Snugr": {
-                "typeSwId": 604
-            },
-            "binFileName": "aerotherm-v211_sw-v0.0.1_hw-v0.1.bin",
-            "binFileSize": 1007984,
-            "hardware": [
-                "v0.1"
-            ],
-            "name": "Double relay Controler, with temperature sensor",
-            "notes": [
-                "Still in development !",
-                "With WiFi update"
-            ],
-            "purpose": "aerotherm",
-            "purpose_id": 62371,
-            "radio": [
-                {
-                    "description": "Relay controler",
-                    "profile": "D2-01-E3",
-                    "protocol": "EnOcean"
-                }
-            ],
-            "release_datetime": 1672765123344,
-            "software": "v0.0.1",
-            "status": "Release candidate"
         }
     ]
 }
