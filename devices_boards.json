@@ -31,5 +31,5 @@
   // OPENTHERM
   400: {
     text: "BOARD_ID_OPENTHERM"
-  },
+  }
 };

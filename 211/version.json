@@ -22,7 +22,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1673255050374,
+            "release_datetime": 1673276309773,
             "software": "v1.0.0",
             "status": "Stable"
         },
@@ -48,7 +48,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1673269594458,
+            "release_datetime": 1673277557262,
             "software": "v1.0.0",
             "status": "Stable"
         }
