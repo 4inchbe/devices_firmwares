@@ -4,32 +4,6 @@
             "Snugr": {
                 "typeSwId": 603
             },
-            "binFileName": "aerotherm-v200_sw-v1.0.1_hw-v2.0.bin",
-            "binFileSize": 621792,
-            "hardware": [
-                "v2.0"
-            ],
-            "name": "Single relay Controler",
-            "notes": [
-                "First official version"
-            ],
-            "purpose": "aerotherm",
-            "purpose_id": 62371,
-            "radio": [
-                {
-                    "description": "Relay controler",
-                    "profile": "D2-01-A2",
-                    "protocol": "EnOcean"
-                }
-            ],
-            "release_datetime": 1673256985883,
-            "software": "v1.0.1",
-            "status": "Stable"
-        },
-        {
-            "Snugr": {
-                "typeSwId": 603
-            },
             "binFileName": "aerotherm-v200_sw-v1.0.0_hw-v2.0.bin",
             "binFileSize": 621792,
             "hardware": [
