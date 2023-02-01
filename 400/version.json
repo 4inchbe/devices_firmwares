@@ -5,7 +5,7 @@
                 "typeSwId": 700
             },
             "binFileName": "opentherm-v400_sw-v0.0.4_hw-v0.1.bin",
-            "binFileSize": 710864,
+            "binFileSize": 713872,
             "hardware": [
                 "v0.1"
             ],
@@ -22,25 +22,9 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1675247518528,
+            "release_datetime": 1675259605881,
             "software": "v0.0.4",
             "status": "Stable"
-        },
-        {
-            "binFileName": "swId-19_sw-v0.0.2_hw-v0.1.bin",
-            "hardware": [
-                "v0.1"
-            ],
-            "name": "Snugr Valve",
-            "software": "v0.0.2"
-        },
-        {
-            "binFileName": "swId-19_sw-v0.0.1_hw-v0.1.bin",
-            "hardware": [
-                "v0.1"
-            ],
-            "name": "Snugr Valve",
-            "software": "v0.0.1"
         }
     ]
 }
