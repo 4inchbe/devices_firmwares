@@ -4,6 +4,32 @@
             "Snugr": {
                 "typeSwId": 700
             },
+            "binFileName": "opentherm-v400_sw-v1.0.0_hw-v1.1.bin",
+            "binFileSize": 669248,
+            "hardware": [
+                "v1.1"
+            ],
+            "name": "Opentherm Controler",
+            "notes": [
+                "First official version"
+            ],
+            "purpose": "opentherm",
+            "purpose_id": 64185,
+            "radio": [
+                {
+                    "description": "Opentherm controler",
+                    "profile": "D2-E0-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1678197299931,
+            "software": "v1.0.0",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 700
+            },
             "binFileName": "opentherm-v400_sw-v0.0.4_hw-v0.1.bin",
             "binFileSize": 713760,
             "hardware": [
