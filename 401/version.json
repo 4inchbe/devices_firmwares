@@ -1,4 +1,30 @@
 {
     "firmware": [
+        {
+            "Snugr": {
+                "typeSwId": 700
+            },
+            "binFileName": "opentherm-v401_sw-v1.0.0_hw-v1.1.bin",
+            "binFileSize": 672912,
+            "hardware": [
+                "v1.1"
+            ],
+            "name": "Opentherm Controler, with temperature sensor",
+            "notes": [
+                "First official version"
+            ],
+            "purpose": "opentherm",
+            "purpose_id": 64185,
+            "radio": [
+                {
+                    "description": "Opentherm controler",
+                    "profile": "D2-E0-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1678185682846,
+            "software": "v1.0.0",
+            "status": "Stable"
+        }
     ]
 }
