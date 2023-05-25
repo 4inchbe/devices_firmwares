@@ -10,7 +10,7 @@
                 "v0.2"
             ],
             "name": "Snugr Valve",
-            "notes": "<span>\"First release\"</span>\n",
+            "notes": "\n    <ul>\n        <li>First official version<\\li>\n    </ul>\n    ",
             "purpose": "valve",
             "purpose_id": 64257,
             "radio": [
@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1685022291845,
+            "release_datetime": 1685022807637,
             "software": "v0.0.4",
             "status": "Release candidate"
         },
@@ -34,9 +34,7 @@
                 "v0.1"
             ],
             "name": "Snugr Valve",
-            "notes": [
-                "Still in development !"
-            ],
+            "notes": "<span>Still in development !</span>\n",
             "purpose": "valve",
             "purpose_id": 64257,
             "radio": [
