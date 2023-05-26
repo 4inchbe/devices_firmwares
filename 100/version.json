@@ -5,12 +5,12 @@
                 "typeSwId": 19
             },
             "binFileName": "valve-v100_sw-v0.0.4_hw-v0.2.bin",
-            "binFileSize": 649328,
+            "binFileSize": 649760,
             "hardware": [
                 "v0.2"
             ],
             "name": "Snugr Valve",
-            "notes": "<ul><li>Bug fixed: during update, nack want not sent if an error occured</li><li>Bug fixed: when holding one btn, hard reset was not working</li></ul>",
+            "notes": "<ul><li>Bug fixed: during update, nack want not sent if an error occured</li><li>Bug fixed: when holding one btn, hard reset was not working</li><li>Error when motor not connected</li></ul>",
             "purpose": "valve",
             "purpose_id": 64257,
             "radio": [
@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1685088166204,
+            "release_datetime": 1685101974841,
             "software": "v0.0.4",
             "status": "Release candidate"
         },
