@@ -5,12 +5,12 @@
                 "typeSwId": 19
             },
             "binFileName": "valve-v100_sw-v0.0.7_hw-v0.2.bin",
-            "binFileSize": 651472,
+            "binFileSize": 651520,
             "hardware": [
                 "v0.2"
             ],
             "name": "Snugr Valve",
-            "notes": "<ul><li>Bug fixed: Using now brownout to ensure working after low battery</li><li>USP v1.1: add sending EnOcean address</li><li>In battery safe mode, valve will communicate only every 30 min</li></ul>",
+            "notes": "<ul><li>Bug fixed: Using now brownout to ensure working after low battery</li><li>USP v1.1: add sending EnOcean address</li><li>In battery safe mode, valve will communicate only every 30 min</li><li>Learn failed means no master anymore</li></ul>",
             "purpose": "valve",
             "purpose_id": 64257,
             "radio": [
@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1687440783227,
+            "release_datetime": 1687511819305,
             "software": "v0.0.7",
             "status": "Release candidate"
         },
