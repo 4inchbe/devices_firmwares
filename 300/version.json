@@ -4,10 +4,10 @@
             "Snugr": {
                 "typeSwId": 85
             },
-            "binFileName": "boiler-battery-v300_sw-v1.0.0_hw-v9.1.bin",
+            "binFileName": "boiler-battery-v300_sw-v1.0.0_hw-v9.2.bin",
             "binFileSize": 625456,
             "hardware": [
-                "v9.1"
+                "v9.2"
             ],
             "name": "Boiler controler rechargeable",
             "notes": "<ul><li>First official version</li></ul>",
