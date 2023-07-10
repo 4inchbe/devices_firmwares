@@ -1,4 +1,28 @@
 {
     "firmware": [
+        {
+            "Snugr": {
+                "typeSwId": 85
+            },
+            "binFileName": "boiler-battery-v301_sw-v1.0.0_hw-v9.1.bin",
+            "binFileSize": 625456,
+            "hardware": [
+                "v9.1"
+            ],
+            "name": "Boiler controler rechargeable, with temperature sensor",
+            "notes": "<ul><li>First official version</li></ul>",
+            "purpose": "boiler-battery",
+            "purpose_id": 62148,
+            "radio": [
+                {
+                    "description": "Boiler battery",
+                    "profile": "A5-10-0B",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1688996419269,
+            "software": "v1.0.0",
+            "status": "Stable"
+        }
     ]
 }
