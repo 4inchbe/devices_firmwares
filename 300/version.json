@@ -5,7 +5,7 @@
                 "typeSwId": 85
             },
             "binFileName": "boiler-battery-v300_sw-v1.0.0_hw-v9.2.bin",
-            "binFileSize": 625456,
+            "binFileSize": 625424,
             "hardware": [
                 "v9.2"
             ],
@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1692188243579,
+            "release_datetime": 1692610613751,
             "software": "v1.0.0",
             "status": "Stable"
         }
