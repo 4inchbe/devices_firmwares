@@ -4,6 +4,30 @@
             "Snugr": {
                 "typeSwId": 19
             },
+            "binFileName": "valve-v100_sw-v0.0.10_hw-v0.2.bin",
+            "binFileSize": 651872,
+            "hardware": [
+                "v0.2"
+            ],
+            "name": "Snugr Valve",
+            "notes": "<ul><li>Btn management changed</li><li>Led display changed</li></ul>",
+            "purpose": "valve",
+            "purpose_id": 64257,
+            "radio": [
+                {
+                    "description": "Snugr Valve",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1692893160613,
+            "software": "v0.0.10",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 19
+            },
             "binFileName": "valve-v100_sw-v0.0.9_hw-v0.2.bin",
             "binFileSize": 651872,
             "hardware": [
