@@ -4,13 +4,13 @@
             "Snugr": {
                 "typeSwId": 85
             },
-            "binFileName": "boiler-battery-v301_sw-v1.0.1_hw-v9.2.bin",
-            "binFileSize": 624240,
+            "binFileName": "boiler-battery-v301_sw-v1.0.2_hw-v9.2.bin",
+            "binFileSize": 626080,
             "hardware": [
                 "v9.2"
             ],
             "name": "Boiler controler rechargeable, with temperature sensor",
-            "notes": "<ul><li>Standardization of button use</li><li>Standardization of led display</li><li>If learn fails, master forgotten</li><li>Sends 18 data message every 10 seconds after learn success</li></ul>",
+            "notes": "<ul><li>Standardization of button use</li><li>Standardization of led display</li><li>Sends 18 data message every 10 seconds (3 min) after learn success</li></ul>",
             "purpose": "boiler-battery",
             "purpose_id": 62148,
             "radio": [
@@ -20,32 +20,8 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1692958875248,
-            "software": "v1.0.1",
-            "status": "Stable"
-        },
-        {
-            "Snugr": {
-                "typeSwId": 85
-            },
-            "binFileName": "boiler-battery-v301_sw-v1.0.0_hw-v9.2.bin",
-            "binFileSize": 624400,
-            "hardware": [
-                "v9.2"
-            ],
-            "name": "Boiler controler rechargeable, with temperature sensor",
-            "notes": "<ul><li>First official version</li></ul>",
-            "purpose": "boiler-battery",
-            "purpose_id": 62148,
-            "radio": [
-                {
-                    "description": "Boiler battery",
-                    "profile": "A5-10-0B",
-                    "protocol": "EnOcean"
-                }
-            ],
-            "release_datetime": 1692696453263,
-            "software": "v1.0.0",
+            "release_datetime": 1693389415332,
+            "software": "v1.0.2",
             "status": "Stable"
         }
     ]
