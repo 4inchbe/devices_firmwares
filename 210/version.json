@@ -2,6 +2,30 @@
     "firmware": [
         {
             "Snugr": {
+                "typeSwId": 200
+            },
+            "binFileName": "boiler-supplied-v210_sw-v1.0.1_hw-v2.0.bin",
+            "binFileSize": 529360,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Boiler & circulator controler supplied",
+            "notes": "<ul><li>Add custom wd</li></ul>",
+            "purpose": "boiler-supplied",
+            "purpose_id": 62065,
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1693815516267,
+            "software": "v1.0.1",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
                 "typeSwId": 604
             },
             "binFileName": "aerotherm-v210_sw-v1.0.0_hw-v2.0.bin",
