@@ -2,10 +2,34 @@
     "firmware": [
         {
             "Snugr": {
+                "typeSwId": 200
+            },
+            "binFileName": "boiler-supplied-v200_sw-v1.0.2_hw-v2.0.bin",
+            "binFileSize": 529392,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Boiler controler supplied",
+            "notes": "<ul><li>Add custom wd</li></ul>",
+            "purpose": "boiler-supplied",
+            "purpose_id": 62065,
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1693917831282,
+            "software": "v1.0.2",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
                 "typeSwId": 603
             },
             "binFileName": "aerotherm-v200_sw-v1.0.2_hw-v2.0.bin",
-            "binFileSize": 623776,
+            "binFileSize": 623824,
             "hardware": [
                 "v2.0"
             ],
@@ -20,7 +44,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1693817435867,
+            "release_datetime": 1693917841964,
             "software": "v1.0.2",
             "status": "Stable"
         },
