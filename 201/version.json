@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1693917145290,
+            "release_datetime": 1693918162799,
             "software": "v1.0.2",
             "status": "Stable"
         },
@@ -29,7 +29,7 @@
                 "typeSwId": 603
             },
             "binFileName": "aerotherm-v201_sw-v1.0.2_hw-v2.0.bin",
-            "binFileSize": 632640,
+            "binFileSize": 632672,
             "hardware": [
                 "v2.0"
             ],
@@ -44,7 +44,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1693917371086,
+            "release_datetime": 1693918154287,
             "software": "v1.0.2",
             "status": "Stable"
         },
