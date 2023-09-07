@@ -4,6 +4,30 @@
             "Snugr": {
                 "typeSwId": 200
             },
+            "binFileName": "boiler-supplied-v200_sw-v1.0.3_hw-v2.0.bin",
+            "binFileSize": 528480,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Boiler controler supplied",
+            "notes": "<ul><li>Fix USB plug detection</li></ul>",
+            "purpose": "boiler-supplied",
+            "purpose_id": 62065,
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1694092963689,
+            "software": "v1.0.3",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 200
+            },
             "binFileName": "boiler-supplied-v200_sw-v1.0.2_hw-v2.0.bin",
             "binFileSize": 529392,
             "hardware": [
