@@ -4,6 +4,30 @@
             "Snugr": {
                 "typeSwId": 700
             },
+            "binFileName": "opentherm-v400_sw-v1.0.2_hw-v1.1.bin",
+            "binFileSize": 568064,
+            "hardware": [
+                "v1.1"
+            ],
+            "name": "Opentherm Controler",
+            "notes": "<ul><li>EnOcean cmd management updated</li><li>Removed unused WiFi features</li></ul>",
+            "purpose": "opentherm",
+            "purpose_id": 64185,
+            "radio": [
+                {
+                    "description": "Opentherm controler",
+                    "profile": "D2-E0-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1695036869483,
+            "software": "v1.0.2",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 700
+            },
             "binFileName": "opentherm-v400_sw-v1.0.1_hw-v1.1.bin",
             "binFileSize": 663728,
             "hardware": [
