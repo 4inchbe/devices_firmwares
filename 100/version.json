@@ -5,7 +5,7 @@
                 "typeSwId": 19
             },
             "binFileName": "valve-v100_sw-v0.1.2_hw-v0.2.bin",
-            "binFileSize": 652688,
+            "binFileSize": 652720,
             "hardware": [
                 "v0.2"
             ],
@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1695722535491,
+            "release_datetime": 1695813286648,
             "software": "v0.1.2",
             "status": "Release candidate"
         },
