@@ -4,8 +4,56 @@
             "Snugr": {
                 "typeSwId": 200
             },
+            "binFileName": "boiler-supplied-v200_sw-v1.0.4_hw-v2.0.bin",
+            "binFileSize": 528976,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Boiler controler supplied",
+            "notes": "<ul><li>Loop stack size increased</li><li>Fix USB plug detection</li></ul>",
+            "purpose": "boiler-supplied",
+            "purpose_id": 62065,
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1697180561116,
+            "software": "v1.0.4",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 603
+            },
+            "binFileName": "aerotherm-v200_sw-v1.0.4_hw-v2.0.bin",
+            "binFileSize": 621264,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Single relay Controler",
+            "notes": "<ul><li>Loop stack size increased</li><li>Fix USB plug detection</li></ul>",
+            "purpose": "aerotherm",
+            "purpose_id": 62371,
+            "radio": [
+                {
+                    "description": "Relay controler",
+                    "profile": "D2-01-A2",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1697179805054,
+            "software": "v1.0.4",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 200
+            },
             "binFileName": "boiler-supplied-v200_sw-v1.0.3_hw-v2.0.bin",
-            "binFileSize": 528480,
+            "binFileSize": 528976,
             "hardware": [
                 "v2.0"
             ],
@@ -20,7 +68,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1694092963689,
+            "release_datetime": 1697180342975,
             "software": "v1.0.3",
             "status": "Stable"
         },
