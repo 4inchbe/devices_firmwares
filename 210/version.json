@@ -2,6 +2,102 @@
     "firmware": [
         {
             "Snugr": {
+                "typeSwId": 604
+            },
+            "binFileName": "aerotherm-v210_sw-v1.0.5_hw-v2.1.bin",
+            "binFileSize": 621952,
+            "hardware": [
+                "v2.1"
+            ],
+            "name": "Double relay Controler",
+            "notes": "<ul><li>Steady led at init</li><li>Blue led when send learn</li></ul>",
+            "purpose": "aerotherm",
+            "purpose_id": 62371,
+            "radio": [
+                {
+                    "description": "Relay controler",
+                    "profile": "D2-01-E3",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1698414198282,
+            "software": "v1.0.5",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 604
+            },
+            "binFileName": "aerotherm-v210_sw-v1.0.5_hw-v2.0.bin",
+            "binFileSize": 621056,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Double relay Controler",
+            "notes": "<ul><li>Steady led at init</li><li>Blue led when send learn</li></ul>",
+            "purpose": "aerotherm",
+            "purpose_id": 62371,
+            "radio": [
+                {
+                    "description": "Relay controler",
+                    "profile": "D2-01-E3",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1698406769089,
+            "software": "v1.0.5",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 200
+            },
+            "binFileName": "boiler-supplied-v210_sw-v1.0.5_hw-v2.1.bin",
+            "binFileSize": 529696,
+            "hardware": [
+                "v2.1"
+            ],
+            "name": "Boiler & circulator controler supplied",
+            "notes": "<ul><li>Steady led at init</li><li>Blue led when send learn</li></ul>",
+            "purpose": "boiler-supplied",
+            "purpose_id": 62065,
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1698405191728,
+            "software": "v1.0.5",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 200
+            },
+            "binFileName": "boiler-supplied-v210_sw-v1.0.5_hw-v2.0.bin",
+            "binFileSize": 528784,
+            "hardware": [
+                "v2.0"
+            ],
+            "name": "Boiler & circulator controler supplied",
+            "notes": "<ul><li>Steady led at init</li><li>Blue led when send learn</li></ul>",
+            "purpose": "boiler-supplied",
+            "purpose_id": 62065,
+            "radio": [
+                {
+                    "description": "Boiler controler",
+                    "profile": "D2-34-0F",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1698404796947,
+            "software": "v1.0.5",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
                 "typeSwId": 200
             },
             "binFileName": "boiler-supplied-v210_sw-v1.0.2_hw-v2.0.bin",
