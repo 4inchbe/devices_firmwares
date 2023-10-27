@@ -4,6 +4,54 @@
             "Snugr": {
                 "typeSwId": 85
             },
+            "binFileName": "boiler-battery-v301_sw-v1.0.4_hw-v9.3.bin",
+            "binFileSize": 626432,
+            "hardware": [
+                "v9.3"
+            ],
+            "name": "Boiler controler rechargeable, with temperature sensor",
+            "notes": "<ul><li>Led steady at init if chip enocean was not found.</li></ul>",
+            "purpose": "boiler-battery",
+            "purpose_id": 62148,
+            "radio": [
+                {
+                    "description": "Boiler battery",
+                    "profile": "A5-10-0B",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1698415639780,
+            "software": "v1.0.4",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 85
+            },
+            "binFileName": "boiler-battery-v301_sw-v1.0.4_hw-v9.2.bin",
+            "binFileSize": 626432,
+            "hardware": [
+                "v9.2"
+            ],
+            "name": "Boiler controler rechargeable, with temperature sensor",
+            "notes": "<ul><li>Led steady at init if chip enocean was not found.</li></ul>",
+            "purpose": "boiler-battery",
+            "purpose_id": 62148,
+            "radio": [
+                {
+                    "description": "Boiler battery",
+                    "profile": "A5-10-0B",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1698415302429,
+            "software": "v1.0.4",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 85
+            },
             "binFileName": "boiler-battery-v301_sw-v1.0.3_hw-v9.2.bin",
             "binFileSize": 626176,
             "hardware": [
