@@ -5,7 +5,7 @@
                 "typeSwId": 19
             },
             "binFileName": "valve-v100_sw-v0.1.11_hw-v1.0.bin",
-            "binFileSize": 659056,
+            "binFileSize": 659088,
             "hardware": [
                 "v1.0"
             ],
@@ -20,7 +20,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1716471653565,
+            "release_datetime": 1716472205341,
             "software": "v0.1.11",
             "status": "Release candidate"
         },
@@ -29,7 +29,7 @@
                 "typeSwId": 19
             },
             "binFileName": "valve-v100_sw-v0.1.11_hw-v0.2.bin",
-            "binFileSize": 659056,
+            "binFileSize": 659088,
             "hardware": [
                 "v0.2"
             ],
@@ -44,7 +44,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1716471183207,
+            "release_datetime": 1716472279683,
             "software": "v0.1.11",
             "status": "Release candidate"
         },
