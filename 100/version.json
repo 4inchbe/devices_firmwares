@@ -4,6 +4,54 @@
             "Snugr": {
                 "typeSwId": 19
             },
+            "binFileName": "valve-v100_sw-v0.1.12_hw-v1.0.bin",
+            "binFileSize": 659840,
+            "hardware": [
+                "v1.0"
+            ],
+            "name": "Snugr Valve",
+            "notes": "<ul><li>Low battery motor position argument added</li><li>Change version detection fix</li><li>Temperature adjustment</li><li>Battery too low bit in 4BS</li></ul>",
+            "purpose": "valve",
+            "purpose_id": 64257,
+            "radio": [
+                {
+                    "description": "Snugr Valve",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1718001852386,
+            "software": "v0.1.12",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 19
+            },
+            "binFileName": "valve-v100_sw-v0.1.12_hw-v0.2.bin",
+            "binFileSize": 659840,
+            "hardware": [
+                "v0.2"
+            ],
+            "name": "Snugr Valve",
+            "notes": "<ul><li>Low battery motor position argument added</li><li>Change version detection fix</li><li>Temperature adjustment</li><li>Battery too low bit in 4BS</li></ul>",
+            "purpose": "valve",
+            "purpose_id": 64257,
+            "radio": [
+                {
+                    "description": "Snugr Valve",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1718001970240,
+            "software": "v0.1.12",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 19
+            },
             "binFileName": "valve-v100_sw-v0.1.11_hw-v1.0.bin",
             "binFileSize": 659152,
             "hardware": [
