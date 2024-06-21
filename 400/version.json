@@ -4,6 +4,54 @@
             "Snugr": {
                 "typeSwId": 700
             },
+            "binFileName": "opentherm-v400_sw-v1.0.4_hw-v1.1.bin",
+            "binFileSize": 567888,
+            "hardware": [
+                "v1.1"
+            ],
+            "name": "Opentherm Controler",
+            "notes": "<ul><li>EnOcean messages were sent too often, threshold values increased.</li></ul>",
+            "purpose": "opentherm",
+            "purpose_id": 64185,
+            "radio": [
+                {
+                    "description": "Opentherm controler",
+                    "profile": "D2-E0-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1718963788987,
+            "software": "v1.0.4",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 700
+            },
+            "binFileName": "opentherm-v400_sw-v1.0.4_hw-v1.2.bin",
+            "binFileSize": 568704,
+            "hardware": [
+                "v1.2"
+            ],
+            "name": "Opentherm Controler",
+            "notes": "<ul><li>EnOcean messages were sent too often, threshold values increased.</li></ul>",
+            "purpose": "opentherm",
+            "purpose_id": 64185,
+            "radio": [
+                {
+                    "description": "Opentherm controler",
+                    "profile": "D2-E0-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1718963587461,
+            "software": "v1.0.4",
+            "status": "Stable"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 700
+            },
             "binFileName": "opentherm-v400_sw-v1.0.3_hw-v1.2.bin",
             "binFileSize": 568720,
             "hardware": [
