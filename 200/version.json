@@ -105,7 +105,9 @@
                 "typeSwId": 200
             },
             "binFileName": "boiler-supplied-v200_sw-v1.0.5_hw-v2.1.bin",
+            "binFileNameFull": "boiler-supplied-v200_sw-v1.0.5_hw-v2.1-full.bin",
             "binFileSize": 529696,
+            "binFileSizeFull": 595232,
             "hardware": [
                 "v2.1"
             ],
@@ -120,7 +122,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1698405064678,
+            "release_datetime": 1719914033976,
             "software": "v1.0.5",
             "status": "Stable"
         },
@@ -129,7 +131,9 @@
                 "typeSwId": 200
             },
             "binFileName": "boiler-supplied-v200_sw-v1.0.5_hw-v2.0.bin",
+            "binFileNameFull": "boiler-supplied-v200_sw-v1.0.5_hw-v2.0-full.bin",
             "binFileSize": 528784,
+            "binFileSizeFull": 594320,
             "hardware": [
                 "v2.0"
             ],
@@ -144,7 +148,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1698404608654,
+            "release_datetime": 1719913543128,
             "software": "v1.0.5",
             "status": "Stable"
         },
