@@ -4,6 +4,58 @@
             "Snugr": {
                 "typeSwId": 19
             },
+            "binFileName": "valve-v100_sw-v0.1.13_hw-v1.0.bin",
+            "binFileNameFull": "valve-v100_sw-v0.1.13_hw-v1.0-full.bin",
+            "binFileSize": 660144,
+            "binFileSizeFull": 725680,
+            "hardware": [
+                "v1.0"
+            ],
+            "name": "Snugr Valve",
+            "notes": "<ul><li>When valve is isolated (autonomous mode) for too long (5 days), its closes itself and goes to sleep forever.</li><li>When valve paired but not init or has detected that valve is removed, warns it for 1 hours and then goes to sleep forever.</li></ul>",
+            "purpose": "valve",
+            "purpose_id": 64257,
+            "radio": [
+                {
+                    "description": "Snugr Valve",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1719912796357,
+            "software": "v0.1.13",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 19
+            },
+            "binFileName": "valve-v100_sw-v0.1.13_hw-v0.2.bin",
+            "binFileNameFull": "valve-v100_sw-v0.1.13_hw-v0.2-full.bin",
+            "binFileSize": 660128,
+            "binFileSizeFull": 725664,
+            "hardware": [
+                "v0.2"
+            ],
+            "name": "Snugr Valve",
+            "notes": "<ul><li>When valve is isolated (autonomous mode) for too long (5 days), its closes itself and goes to sleep forever.</li><li>When valve paired but not init or has detected that valve is removed, warns it for 1 hours and then goes to sleep forever.</li></ul>",
+            "purpose": "valve",
+            "purpose_id": 64257,
+            "radio": [
+                {
+                    "description": "Snugr Valve",
+                    "profile": "A5-20-01",
+                    "protocol": "EnOcean"
+                }
+            ],
+            "release_datetime": 1719912196025,
+            "software": "v0.1.13",
+            "status": "Release candidate"
+        },
+        {
+            "Snugr": {
+                "typeSwId": 19
+            },
             "binFileName": "valve-v100_sw-v0.1.12_hw-v1.0.bin",
             "binFileSize": 659840,
             "hardware": [
