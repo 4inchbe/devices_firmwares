@@ -5,7 +5,9 @@
                 "typeSwId": 700
             },
             "binFileName": "opentherm-v400_sw-v1.0.4_hw-v1.1.bin",
+            "binFileNameFull": "opentherm-v400_sw-v1.0.4_hw-v1.1-full.bin",
             "binFileSize": 567888,
+            "binFileSizeFull": 633424,
             "hardware": [
                 "v1.1"
             ],
@@ -20,7 +22,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1718963788987,
+            "release_datetime": 1719931399146,
             "software": "v1.0.4",
             "status": "Stable"
         },
@@ -29,7 +31,9 @@
                 "typeSwId": 700
             },
             "binFileName": "opentherm-v400_sw-v1.0.4_hw-v1.2.bin",
+            "binFileNameFull": "opentherm-v400_sw-v1.0.4_hw-v1.2-full.bin",
             "binFileSize": 568704,
+            "binFileSizeFull": 634240,
             "hardware": [
                 "v1.2"
             ],
@@ -44,7 +48,7 @@
                     "protocol": "EnOcean"
                 }
             ],
-            "release_datetime": 1718963587461,
+            "release_datetime": 1719931560786,
             "software": "v1.0.4",
             "status": "Stable"
         },
